@@ -49,4 +49,4 @@ Give credit here.
 - This project was inspired by www.kaggle.com
 
 ## Contact
-Created by [@garv-daga(Garv Daga) @pozoxox(Pushpendra Hirwani)] - feel free to contact me!
+Created by [@garv-daga(Garv Daga)] & [@pozoxoxo(Pushpendra Hirwani)]
